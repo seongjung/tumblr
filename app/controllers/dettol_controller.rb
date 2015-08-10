@@ -16,5 +16,7 @@ class DettolController < ApplicationController
         redirect_to '/'
     end
     
+    def output
+    end
     
 end
